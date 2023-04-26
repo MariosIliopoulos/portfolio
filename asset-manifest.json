@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.43532320.css",
+    "main.js": "/portfolio/static/js/main.5340de6a.js",
+    "static/media/Thesis_Document.pdf": "/portfolio/static/media/Thesis_Document.06591e365223654c8e3d.pdf",
+    "static/media/linkedIn_img.jpg": "/portfolio/static/media/linkedIn_img.bf64d1789b5a5e5e6254.jpg",
+    "static/media/Marios-Iliopoulos-CV.pdf": "/portfolio/static/media/Marios-Iliopoulos-CV.025db00b5de8f70c57c7.pdf",
+    "static/media/thesis1.jpg": "/portfolio/static/media/thesis1.5b9ac07767aa545bce2d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.43532320.css.map": "/portfolio/static/css/main.43532320.css.map",
+    "main.5340de6a.js.map": "/portfolio/static/js/main.5340de6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43532320.css",
+    "static/js/main.5340de6a.js"
+  ]
+}
