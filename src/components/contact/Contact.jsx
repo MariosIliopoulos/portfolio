@@ -9,18 +9,16 @@ const Contact = () => {
       <div className="contact__container grid">
 
         <div className="contact__form">
+            <div className="contact__form-input">
           <div className="contact__form-group">
-            <h3 className="contact__title">Name:</h3>
-            <div className="contact__form-div">
-              <p className='contact__form-desc'>Iliopoulos Marios</p>
-            </div>
-            <h3 className="contact__title">Email:</h3>
-            <div className="contact__form-div">
-              <p className='contact__form-desc'>mariosiliop7@gmail.com</p>
-            </div>
-            <h3 className="contact__title">Phone number:</h3>
-            <div className="contact__form-div">
-              <p className='contact__form-desc'>+306980753533</p>
+              <h3 className="contact__title">Email:</h3>
+              <div className="contact__form-div">
+                <p className='contact__form-desc'><i className="fa-solid fa-envelope"></i>mariosiliop7@gmail.com</p>
+              </div>
+              <h3 className="contact__title">Phone number:</h3>
+              <div className="contact__form-div">
+                <p className='contact__form-desc'><i className="fa-solid fa-phone"></i>+306980753533</p>
+              </div>
             </div>
           </div>
           

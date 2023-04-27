@@ -31,7 +31,6 @@
 }
 
 .contact__form-input {
-    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -52,4 +51,8 @@
 
 .contact__form-area textarea {
     resize: none;
+}
+
+i {
+    margin-right: 1rem;
 }
