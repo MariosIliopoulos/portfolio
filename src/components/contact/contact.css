@@ -53,6 +53,10 @@
     resize: none;
 }
 
-i {
+.fa-phone {
+    margin-right: 1rem;
+}
+
+.fa-envelope {
     margin-right: 1rem;
 }
